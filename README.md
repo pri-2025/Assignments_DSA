@@ -6,7 +6,9 @@ Each assignment focuses on a specific data structure, highlighting both **concep
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
+
+```
 Assignments_DSA/
 │
 ├── A1_LibraryManagementSystem/
@@ -26,6 +28,7 @@ Assignments_DSA/
 ├── A8_Graph/
 │
 └── A9_MobileContact_Hashing/
+```
 
 ---
 
