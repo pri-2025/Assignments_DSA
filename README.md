@@ -7,16 +7,25 @@ Each assignment focuses on a specific data structure, highlighting both **concep
 ---
 
 ## Repository Structure
-Assignments_DSA
-├── A1_LibraryManagementSystem
-├── A2_CodeClubSubscription_LL
-├── A3_MusicSystem_CDLL
-├── A4_SubSetSum_Stack
-├── A5_PostfixEvaluation_Stack
-├── A6_JobSequencing_Queue
-├── A7_BST
-├── A8_Graph
-└── A9_MobileContact_Hashing
+Assignments_DSA/
+│
+├── A1_LibraryManagementSystem/
+│
+├── A2_CodeClubSubscription_LL/
+│
+├── A3_MusicSystem_CDLL/
+│
+├── A4_SubSetSum_Stack/
+│
+├── A5_PostfixEvaluation_Stack/
+│
+├── A6_JobSequencing_Queue/
+│
+├── A7_BST/
+│
+├── A8_Graph/
+│
+└── A9_MobileContact_Hashing/
 
 ---
 
